@@ -1,0 +1,1 @@
+docker run --rm -it -v ${PWD}/data:/data ultrafunk/undetected-chromedriver ipython /data/yourscript.py
